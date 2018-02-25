@@ -1,4 +1,4 @@
-# Database code for the DB newsdata
+#!/usr/bin/env python
 
 import psycopg2
 
